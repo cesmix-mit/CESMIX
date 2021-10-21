@@ -1,0 +1,6 @@
+name = "CESMIX"
+uuid = "2199a845-376b-415c-8969-3466a94aa994"
+repo = "git@github.com:cesmix-mit/CESMIX.git"
+description = "The (temporary) registry for Julia packages developed by CESMIX"
+
+[packages]
