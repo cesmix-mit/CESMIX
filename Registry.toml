@@ -4,3 +4,4 @@ repo = "git@github.com:cesmix-mit/CESMIX.git"
 description = "The (temporary) registry for Julia packages developed by CESMIX"
 
 [packages]
+a963bdd2-2df7-4f54-a1ee-49d51e6be12a = { name = "AtomsBase", path = "A/AtomsBase" }
