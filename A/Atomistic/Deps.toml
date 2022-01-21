@@ -13,3 +13,6 @@ UnitfulRecipes = "42071c24-d89e-48dd-8a24-8a12d9b8861f"
 
 ["0.2-0"]
 PeriodicTable = "7b2266bf-644c-5ea3-82d8-af4bbd25a884"
+
+["0.3-0"]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
