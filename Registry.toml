@@ -6,4 +6,5 @@ description = "The (temporary) registry for Julia packages developed by CESMIX"
 [packages]
 37c59853-c2ad-4e3a-930c-a41b2395fb19 = { name = "InteratomicBasisPotentials", path = "I/InteratomicBasisPotentials" }
 3e762ff9-b8d8-45cf-a902-edcbc7124e71 = { name = "Atomistic", path = "A/Atomistic" }
+82b0a93c-c2e3-44bc-a418-f0f89b0ae5c2 = { name = "PotentialLearning", path = "P/PotentialLearning" }
 a9efe35a-c65d-452d-b8a8-82646cd5cb04 = { name = "InteratomicPotentials", path = "I/InteratomicPotentials" }
