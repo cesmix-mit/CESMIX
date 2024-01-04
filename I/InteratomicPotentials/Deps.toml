@@ -20,3 +20,10 @@ LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
 ["0.1.8-0"]
 Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
 NearestNeighbors = "b8a86587-4115-5ab1-83bc-aa920d37bbce"
+
+["0.2.7-0"]
+ACE1 = "e3f9bc04-086e-409a-ba78-e9769fe067bb"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
+LAMMPS = "ee2e13b9-eee9-4449-aafa-cfa6a2dbe14d"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
