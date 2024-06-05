@@ -5,9 +5,7 @@ Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
 InteratomicPotentials = "a9efe35a-c65d-452d-b8a8-82646cd5cb04"
 IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-Optim = "429524aa-4258-5aef-a3af-852621145aeb"
 Optimization = "7f7a1694-90dd-40f0-9382-eb1efda571ba"
-OptimizationOptimJL = "36348300-93cb-4f02-beb5-3c3902f8871e"
 OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
 Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
@@ -20,6 +18,10 @@ Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
 ["0-0.1"]
 DPP = "2673d5e8-682c-11e9-2dfd-471b09c6c819"
+
+["0-0.2.2"]
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+OptimizationOptimJL = "36348300-93cb-4f02-beb5-3c3902f8871e"
 
 ["0.2-0"]
 Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
