@@ -28,3 +28,7 @@ Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
 Determinantal = "2673d5e8-682c-11e9-2dfd-471b09c6c819"
 OptimizationOptimisers = "42dfb2eb-d2b4-4451-abcd-913932933ac1"
 ProgressBars = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
+
+["0.2.4-0"]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Hyperopt = "93e5fe13-2215-51db-baaf-2e9a34fb2712"
