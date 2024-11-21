@@ -27,3 +27,8 @@ Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
 JuLIP = "945c410c-986d-556a-acb1-167a618e0462"
 LAMMPS = "ee2e13b9-eee9-4449-aafa-cfa6a2dbe14d"
 Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
+["0.3-0"]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
